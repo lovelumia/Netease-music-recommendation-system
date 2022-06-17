@@ -1,2 +1,2 @@
-# Netease-music-recommendation-system
+# NeteaseMusic-Recommendationsystem
 A recommendation system based on  Netease music, designed by python.
